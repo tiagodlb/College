@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e88bf28f6ad2558e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c503f04937927b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd06422893007f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdda5d3789cf841e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos da Q.O/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fafb0b5af74e779",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "945f7490bd34a6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mec. Fluidos/Mecânica dos Fluidos - Lista de Exercícios 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2937248a4f08ef52",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f3b23f1d0bb678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758f5864483d1bce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4edb2d64173c40bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4772f73068ac26db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f23b8f6103486164",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "113035b242381d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc05d90a5208069a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6385e47a523bc5ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mec. Fluidos/Mecânica dos Fluidos - Lista de Exercícios 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9b59a104839e335",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mec. Fluidos/Mecânica dos Fluidos - Lista de Exercícios 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7c750d7043ad9bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaad5269f12861f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mec. Fluidos/Mecânica dos Fluidos - Lista de Exercícios 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "945f7490bd34a6bc",
+  "lastOpenFiles": [
+    "README.md",
+    "Mec. Fluidos/Lista de Exercícios Respondida.zip",
+    "Mec. Fluidos/Lista de Exercícios Respondida/Mecânica dos Fluidos - Lista de Exercícios 1 1.pdf",
+    "Mec. Fluidos/Lista de Exercícios Respondida/Mecânica dos Fluidos - Lista de Exercícios 1.md",
+    "Mec. Fluidos/Lista de Exercícios Respondida",
+    "Mec. Fluidos/Nova pasta",
+    "Mec. Fluidos/Exports/Mecânica dos Fluidos - Lista de Exercícios 1 1.pdf",
+    "Mec. Fluidos/Exports/Mecânica dos Fluidos - Lista de Exercícios 1 1.md",
+    "Mec. Fluidos/assets/Pasted image 20230926150820.png",
+    "Mec. Fluidos/Mecânica dos Fluidos - Lista de Exercícios 1.md",
+    "Mec. Fluidos/Exports",
+    "Pasted image 20230926154834.png",
+    "Pasted image 20230926154811.png",
+    "Pasted image 20230926154804.png",
+    "Mec. Fluidos/assets/Pasted image 20230926153005.png",
+    "Mec. Fluidos/assets/Pasted image 20230926154509.png",
+    "Mec. Fluidos/assets/Pasted image 20230926154441.png",
+    "Cheat Sheet.md",
+    "Paradigmas da Computação/Capítulo I.md",
+    "Mec. Fluidos/assets",
+    "Mec. Fluidos",
+    "Fundamentos da Q.O/Estruturas e ligamentos.md",
+    "Fundamentos da Q.O/Untitled.md",
+    "Banco de Dados/1.3 Exercícios.md",
+    "Banco de Dados/1.1 Banco de Dados.md",
+    "Banco de Dados/1.2 Modelo de Banco de Dados.md",
+    "Banco de Dados/assets/Pasted image 20230828194731.png",
+    "Banco de Dados/assets/Pasted image 20230828193622.png",
+    "Banco de Dados/assets",
+    "Banco de Dados/assets/Pasted image 20230828191206.png",
+    "Projetos/Trabalho",
+    "Projetos/Pessoal/Loja online.md",
+    "Algoritmos Est. Dados I.md",
+    "Dia a dia/12-07-2023/To do list.md",
+    "Dia a dia/13-02-2023.md",
+    "Dia a dia/09-07-2023/To do List.md",
+    "Untitled/Untitled.md",
+    "Dia a dia/21-02-2023.md",
+    "Dia a dia/19-02-2023.md",
+    "Dia a dia/17-02-2023.md"
+  ]
+}
